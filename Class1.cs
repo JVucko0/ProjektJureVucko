@@ -8,5 +8,10 @@ namespace ProjektJureVucko
 {
     internal class Class1
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("What's up?");
+        }
     }
 }
