@@ -8,5 +8,6 @@ namespace ProjektJureVucko
 {
     internal class Class1
     {
+        //jure
     }
 }
